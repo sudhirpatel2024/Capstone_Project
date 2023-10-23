@@ -1,0 +1,146 @@
+Disease,Name,Username,Password ,Gender,Specialization ,Qualification,Experience,Email Id,Contact No,Hospital Address,Latitude,longitude
+Fungal infection,Dr. Anjali Ullas,anjali26,anjali123,F,Dermatologist,"MBBS, MD",11,info@pvshospital.com,0495 270 7222,"PVS Hospital ,Railway Station Rd, near Railway Station, Palayam, Kozhikode, Kerala 673002",11.24523,75.7817
+Fungal infection,Dr. David Pudukadan,davidPu,pudukadandavid1,M,Dermatologist,"MBBS, MD - Dermatology , Venereology & Leprosy",22,mail@dermalasercentre.com,099954 12360,"Pudukadan's Derma Laser Centre Near Girija Theatre,  Thrissur
+",10.541523,76.212355
+Fungal infection,"
+Dr.Edison",edison03,edison123,M,Dermatologist,"MD, MBBS",35,edisono3@gmail.com,0484 240 3043,"Dr. EDISON'S SKIN AND COSMETIC CLINIC, opposite Vedanta Hotel, Kaloor, Kochi, Kerala 682018
+",48.359903,12.582819
+Allergy,Dr.Anil JCherian,aniljc,jcAnil143,M,Allergist/Immunologist,"MD - Paediatrics, MBBS",29,jcAnil143@gmail.com,0475 222 7412,"Allergy and Asthma Clinic Aradhana Hospital Punalur,Tholikode,Punalur, Kollam, Kerala 691303",9.5053209,76.7770683
+Allergy,Dr.Molly Joseph,mollyJoseph,molly987,F,Allergist/Immunologist,"Diploma In Allergy & Clinical Immunology, MBBS, MD - Paediatrics",21,mollyJoseph@yahoo.com,0484 401 2222,"Dr. Molly's Allergy and Asthma Centre,Puthiya Road Junction, Irumpanam , Kochi, kerala",9.939093,76.270523
+Allergy,Dr.Muhammad Sayid Parakkal,mhsayidParakkal,mhSayidParakkal2,F,Homeopathy Doctor,Bhms,14,mhsayidParakkal@hotmail.com,9387819525,"Arogya homoeo clinic, Chelerimukk, Kerala 670601",11.9397° N,75.4159° E
+Chronic cholestasis,Dr.MusthafaKp,crazyMusthafaKp,crazy123,F,General Physician,"MBBS, MD",5,crazyMusthafaKp@gmail.com,91 497 270 7746,"Fathima hospital,  Kannur",11.874477,75.370369
+Chronic cholestasis,Dr.Yashas Saipangallu,yashas_sai,pangallusai3,M,General Physician,"MBBS, MD",8,yashas_sai@yahoo.com,04994 219 400,"SAIPAL MEDICARE CENTER, Saipangallu Hosamane, Post Padre,  Kasaragod",12.507643,74.988213
+Chronic cholestasis,Dr.Arun MRaghav,MRaghav,arunRaghav12,M,General Physician,MBBS,8,arunRaghav12@gmail.com,0481 256 2239,"S H Medical Centre, Nagampadom,  Kottayam, Kerala 686001",9.5968° N,76.5249° E
+Drug Reaction,Dr.BaluMohan,luBaluMohan,Mohan123,M,General Physician,"M.B.B.S, DNB (General Medicine), Infectious Disease Fellowship",9,luBaluMohan@hotmail.com,0481 248 5222,"Nss Mannam Memmorial Hospital, karukachal,  Kottayam
+",9.5024° N,76.6239° E
+Drug Reaction,Dr.S Radhakrishnan Nair,srKrishnan,srKrishNair45,M,Cosmetic Physician,"MBBS, MD - Dermatology",28,srKrishNair45@gmail.com,0471 232 6182,"Dr.RK's Laser Skin Care Center, Jagathy Junction,Trivandrum",8.524139,76.936638
+Drug Reaction,Dr.B C Raheema,bcRaheema,cutieRaheema22,F,General Physician,MBBS,22,bcRaheema@yahoo.com,099954 12360,"shifa clinic lab& ecg, pottasseri, kanhiramPalakkad",11.0017° N,76.5102° E
+AIDS,Dr.Thomas.J.Kareekalam,TJKarrekalam,kareekalam31,M,General Physician,"Bachelor of Ayurveda, Medicine and Surgery (BAMS)",16,kareekalam31@gmail.com,092885 00500,"Kareekalam ayurvedic center, Cherthala,  Alappuzha",9.6741° N,76.3401° E
+AIDS,"
+Dr.Sabin George",georgeSabin,george77,M,Internal Medicine Specialist,"MBBS, M D General Medicine, DNB",17,georgeSabin@hotmail.com,0495 270 7222,"Dr Sabin Speciality Center,ernakulam",9.9816° N,76.2999° E
+AIDS,Dr.Krishnadas,dasKrishnadas,dasAIDSdas30,M,Ayurvedic Doctor,"MD,BAMS,MSC IN YOGA THERAPY",13,dasAIDSdas30@gmail.com,092880 06040,"Gokulam Ayurveda Healthcare, Near Ezhucompany Busstop, Avinissery,  Thrissur",10.4706° N,76.2320° E
+Diabetes,Dr.Rajesh K P,KP_Rajesh,rajesh143,M,Diabetologist,"MBBS, MD, DNB, MNAMS, D.Diab, M.Diab, MRCP",22,KP_Rajesh@yahoo.com,0495 270 7222,"PVS Hospital ,Railway Station Rd, near Railway Station, Palayam, Kozhikode, Kerala 673002",11.24523,75.7817
+,Dr.SreejithMg,Mg_Sreejith,sreejithsreeju12,M,Diabetologist,"MBBS, MD, DNB, MNAMS, D.Diab, M.Diab, MRCP",9,sreejithsreeju12@gmail.com,0484 240 3043,"S H Medical Centre, Nagampadom,  Kottayam, Kerala 686001",9.5968° N,76.5249° E
+,Dr.N S Pratap Chandran,NSPChandran,nspc120377,M,Diabetologist,"MD - Physical Medicine, Diploma in Diabetology",20,NSPChandran@hotmail.com,0484 401 2222,"Dr. Pratap's Clinic, Thiruvananthapuram Neyyardam Rd, Poojapura,",8.5241° N,76.9366° E
+Migraine,Dr.BaluMohan,luBaluMohan,Mohan123,M,General Physician,"M.B.B.S, DNB (General Medicine)",9,Mohan123@gmail.com,0481 248 5222,"Nss Mannam Memmorial Hospital, karukachal,  Kottayam
+",9.5024° N,76.6239° E
+,Dr.Manikandan Selvaraj,selvaraj_Manikandan,selvaraj05,M,General Physician,MBBS,5,selvaraj05@hotmail.com,0475 222 7412,"City Hospital, Near Padma Junction, MG Road,  Kochi",9.9312° N,76.2673° E
+,Dr.Aravind Akshan,AA_Akshan,aravind2000,M,Homeopathy Doctor,"BHMS, MD General medicine",10,aravind2000@gmail.com,9387819525,"Dr. Aravind's Homoeopathic Centre, NH Main Road, Near Indian Oil Petrol Pump,  Trivandrum",8.5241° N,76.9366° E
+Malaria,Dr.TumanKrishnan,TKrishnan,krishnanT12,M,General Physician,MBBS,6,TKrishnan@yahoo.com,91 497 270 7746,"Maria Hospital Adoor, valakom,  Kollam",8.9566° N,76.8418° E
+,Dr.SajeevKumar,sajeevKumar_12,kumar@123,M,General Physician,"C.S.C, D.C.H, M.B.B.S",36,sajeevKumar12@gmail.com,04994 219 400,"Dr Sajeev Kumar Clinic, No.111 - Anaswara, Chengannur,  Alappuzha",9.4981° N,76.3388° E
+,Dr.Nikhil Joseph,joseph@Nikhil,joseph456,M,General Physician,MBBBS,6,joseph456@hotmail.com,0471 232 6182,"Kattanam Medical Center, kattanam,kayamkulam",9.1748° N,76.5013° E
+Chicken pox,Dr.Mohammed Rihas,mhRihas_88,RiHaS1988,M,General Physician,MBBS,7,RiHaS1988@gmail.com,0481 248 5222,"DOCTORS CLINIC & LAB, KAKKANAD JN,KAYAMKULAM",9.1748° N,76.5013° E
+,Dr.Sajith Sebastian,Sebastian@Sajith,SAjith66,M,General Physician,"DNB, PG A@E,FICM, MBBS, MNAMS",10,SAjith66@yahoo.com,092885 00500,"Muthooot hopsital, Pathnamthitta",9.2648° N,76.7870° E
+,Dr.Nishant Lal,nishant_Lal,lalNishant123,M,General Physician,MBBS,7,Nishant123@gmail.com,0481 248 5222,"KIMS HOSPITAL, ANAYARA,  Trivandrum",8.5241° N,76.9366° E
+Dengue,Dr.Pravin,badguyPravin@97,pravin1997,M,General Physician,MBBS,8,pravin1997@gmail.com,0495 270 7222,"Anugraha Clinical Care, Chunkappara,  Pathanamthitta",9.2648° N,76.7870° E
+,Dr.Anjana Ganesh,dr_Anjana12,Anjana123,F,General Physician,MBBS,7,Anjana123@yahoo.com,092880 06040,"ESI, Kollam",8.9566° N,76.8418° E
+,Dr.Binthaf Imbichikoya,BinthafImbichikoya,imbichikoya@85,M,General Physician,MBBS,3,imbichikoya85@gmail.com,9072881666,"Carewell Polyclinic ,  Kozhikode",11.2588° N,75.7804° E
+,,,,,,,,,,,,
+Typhoid,Dr. Sanoop K Zachariah,Sanoop1,Sanoop123,M,General Physician,"MS,FRCS,FMAS",20,drsanoop18@gmail.com,9072881666,"KIMSHEALTH TRIVANDRUM
+KIMSHEALTH, P.B.No.1, Anayara P.O, Trivandrum – 695029, Kerala, India",8.5137° N,76.9093° E
+,Dr. Renjini Suresh,Regini70,drrejini,F,General Physician,MBBS,7,"reginimbbs23@gmail,com",8944747456,"MBBS - DR SMCSI MEDICAL COLLEGE, KARAKKONAM",8.3894° N,77.1732° E
+,Dr.Seethamony P V,Seethamonypv,seethamony2345,F,General Physician,"MBBS,MD",32,drseethamonyPV@hotmail.com,9946241578,"GA, Serene Square apt, Devaswom board, KOWDIAR PO,  Trivandrum",8.5241° N,76.9366° E
+Tuberculosis,Dr. Laljee Pg,laljeepg,pglaljinew10,M,Pulmonologist ,"MBBS,MD",12,laljipk@gmail.com,8878452554,"Gautham Hospital
+PB-868, Mons. Mathew Kothakathu Rd, Panayappilly,  Kochi",9.9471° N,76.2560° E
+,"
+Dr. Milan Thaha",milanthaha,milanthaha123,M,Pulmonologist ,"MBBS,MD",7,milanthahadr@yahoo.com,7589633345,"KIMS Hospitals
+sitara junction kottiyam po, kollam kerla 691571,  Kollam",8.8645° N,",76.6813° E"
+,Dr. Janso Kollanur,jansokollanur,drjansohere@,M,Pulmonologist ,MD,5,jansokolnur@gmail.com,9984556464,"Amala Institute of Medical Sciences
+Rose Villa, Korath Lane, East Fort P. O., Thrissur-680005,  Thrissur",10.5618° N,76.1675° E
+Pneumonia,Dr. Janso Kollanur,jansokollanur,drjansohere@,M,Pulmonologist ,MD,5,jansokolnur@gmail.com,9984556464,"Amala Institute of Medical Sciences
+Rose Villa, Korath Lane, East Fort P. O., Thrissur-680005,  Thrissur",10.5618° N,76.1675° E
+,Dr. Jebin Abraham,jebinabraham29,jebin@!abraham,M,Pulmonologist ,MBBS,3,jwbinabraham4544@gmail.com,8898547748,"Dr. Jebin's Chest & Allergy Clinic, Iritty
+Iritty,  Kannur",11.8745° N,75.3704° E
+,Dr. Paramez A R,Paramezar,Para@mesh,M,Pulmonologist ,"MD,MBBS",12,Paramezar@gmail.com,7988989656,Senior Resident- Pulmonology and Critical Care at Fortis Hospital,8.5137° N,"76.9093° E
+
+"
+Acne,Dr. Teresa Mathew,TeresaMathew,Teresamathew@1234,F,Dermatologist,MD- Dermatology,20,Teresamathew754@gmail.com,9877454684,"Highway Medicals Polyclinic
+University Signal Junction, Near Cusat Metro Station Pathuvana Building, South Kalamassery,  Ernakulam",9.9471° N,76.2560° E
+,Dr. Najeem B,Najeemb,NajeEmB!,M,Dermatologist,MD- Dermatology,6,najeemirshu1233@gmail.com,8878455565,"King Hamad University Hospital/Ponnani nursing Home/Eshaal Aesthetic Centre
+ponnani,  Perinthalmanna And Cochin",10.7677° N,75.9259° E
+,Dr.Mariam George,MariamGeorge,Maria23George,F,Dermatologist,MD- Dermatology,4,mariamgeorge29@gmail.com,7888985545,K.V.G. Medical College & Hospital,9.6517° N,76.3796° E
+Heart attack,Dr. Praveen Menon,praveenmenon,praveen12george,M,Cardiologist,MBBS,4,praveenmenon12@gmail.com,8699595955,"Heart Care Center
+Elders Forum Road, Near Central Park, Landmark : Near Munnar Hotels, Ernakulam,  Ernakulam",9.9312° N,76.2673° E
+,Dr. Sujay Renga,sujayrenga,Sug@yr@nga,M,Cardiologist,"MBBS,Facc,Fesc",12,sujayranga2332@gmail.com,7889242365,"Dr.Sujay's Heart Care Clinic
+Anjili road, Opp Sankerâs Hospital ,  Kollam",8.8949° N,76.6073° E
+,Dr.Shankaragouda B,shankaragauda,Shanka!Ra,M,Cardiologist,"MBBS,MD",12,shankarji@gmail.com,9987224242,"S H Medical Center, Kottayam",9.5943° N,76.5296° E
+Varicose veins,"
+Dr. Alex K Ittyavirah",AlexIttyavirah,"
+alexIttyavirah",M,Radiology,"MBBS,MD",46,alex12334@gmail.com,7785698631,"Ittyavirah Scan And Genetic Research
+Chalakuzhy Road, Medical College P.O, Landmark : Opposite To Nirmala Hospital, Thiruvananthapuram,  Trivandrum",8.5231° N,76.9342° E
+Hypoglycemia,Dr Manoharan S,manoharans,mohanmanoharan44,M,Diabetologist,"MBBS,MD",31,Manoharmenon66@gmail.com,9966211423,"Dr Manoharan Shanmugam Clinic
+Bright Hospital, Chavara,  Chavara",8.9828° N,76.5339° E
+,Dr.Anfas Haris,anfasharris,anfasdr32@,M,Gereral Physician,MBBS,1,anfasharris2333@gmail.com,7855896663,"Iris
+school mukku,  Kozhikode",11.3223° N,75.7630° E
+,"
+Dr. Sathishchandran Ramachandran",sathishrama,rama@sathish,M,pediatrician,MBBS,3,sathishchandran@gmail.com,9899995566,"elite hospital
+Koorkenchery ,  Thrissur",10.5024° N,76.2111° E
+Hyperthyroidism,Dr. Ananthu Prakash,anandhuprakash,ananDhu,M,homeopathy,BHMS,4,anandhumanish@gmail.com,9946214367,"Pancheril clinic
+Pancheril,  Kollam",8.9782° N,76.5426° E
+,Dr. Jitha Shaji,jithashaji,jitha@,F,ayurveda,BAMS,7,jithas@gmail.com,9899657989,"Kinder Ayurkalpa Mother Care & Baby Care
+Maruthorvattom Temple Road,  Alappuzha",9.498067° N,76.338844° E
+,Dr.Riyas,riyasahamed,@riyasah,M,Endocrinologist,MBBS,4,riyasahmed34@gmail.com,9899945543,aims kochi,10.0340° N,76.2930° E
+Arthritis,Dr. mb Nitheesh,nitheeshmb,!@#nithsse,M,orhopaedics,"MBBS, D ORTHO",19,nithishrana@gmail.com,7711674289,lakshmi hospital ernakulam,9.9663° N,76.2836° E
+,"Dr.Niranjan T J
+",niranjantj,amma@niranjan,M,orhopaedics,"MBBS, D ORTHO",14,niranjanganesh@gmail.com,9846214387,"SK hospital, Trivandrum",8.5055° N,76.9713° E
+,Dr. Arun Mammen Mathew,arunmammen,arunima@arun,M,orhopaedics,"MBBS, D ORTHO",16,arunmamem@gmail.com,6946214364,azzezia medical college,11.6721° N,78.1329° E
+,,,,,,,,,,,,
+Impetigo,DR. ARJUN A,arjun,arjun99,M,Dermatologist and Cosmetologist,"MBBS,MD(DVL)",8,arjuns999@gmail.com,7012790122,"VNRA 95, Vivekananda Nagar, Edapazhanji, Thiruvananthapuram, Kerala 695006",8.502141° N,76.966986° E
+,DR. ANU BALAKRISHNAN,anu,anu89,F,Dermatologist and Cosmetologist,"MBBS, MD - Dermatology , Venereology & Leprosy",10,anu89@gmail.com,94003 05070,"Shingarathoppil Tower Vallikeezhu Kavanadu, Kollam, Kerala 691003",8.92561° N,76.55966° E
+,Dr Anuja Anna Varghese,anuja,anuja0,F,Dermatologist and Cosmetologist,"MBBS, MD - Dermatology , Venereology & Leprosy",4,sunrise@gmail.com,099460 01005,"Seaport - Airport Rd, Thrikkakara, Kakkanad, Kerala 682030",9.9746° N,76.293° E
+Psoriasis,DR. PREM NARAYAN,Prem,prem,M,Dermatologist and Cosmetologist,"Dip MEDICAL COSMETOLOGY, ESCAD",10,pnvmhospital@gmail.com,484 4860663,"PNVM Hospital, Madhava Pharmacy jn,Banerji Road, cochin-682 018",9.963386° N,76.253661° E
+, DR.Prakruth N,Prakruth n,abc,M,Dermatologist and Cosmetologist,"MBBS, MD - Dermatology , Venereology & Leprosy",15,sparshclinickollam@gmail.com,8139844944,"Vendermukku-Post Office Jct Rd, Pallimukku, Kollam, Kerala 691010",9.59157° N,76.52202° E
+,Dr. Yogiraj,Yograj b,yograj2,M,Dermatologist and Cosmetologist,"MBBS, MD - Dermatology , Venereology & Leprosy",37,yorajclinc@gmail.com,0471 244 4315,"Kumarapuram Rd, Pattom, Thiruvananthapuram, Kerala 695004",8.51491° N,76.93084° E
+GERD,Dr Lakshmi C P,Lakshmi C P,lakshmi4,F,gastroenterology,"MD, DM (SGPGIMS)",19,gastrocentre@gmail.com,91 9447101025,"TC 16/2281/1, Near G G Hospital, Murinjapalam,Trivandrum, Kerala 695011",8.502145° N,76.965986° E
+, Dr Vivek Saraf,Vivek s,vivek4,M,gastroenterology,MD DNB (Medical Gastroenterology),20,vgsarafhospital@gmail.com,484-2380452,"Sreekandath Road, Ravipuram, Cochin - 682 016, Kerala, India.",9.96194° N,76.28984° E
+,DR. JOSHY JOHN,josh john,john7,M,gastroenterology,"M.B.B.S,M.Ch (Surgical Gastro),F.R.C.S (Glasgow)",16,joshytjohn@hotmail.com,99472 84085,"J.J GASTROCARE, A.G.C complex,Beach road, Kollam-1",8.887094° N,76.590684° E
+Chronic cholestasis,Dr DeviPrasad,prasaddevi,devi8,M,gastroenterology,"M.B.B.S,M.Ch (Surgical Gastro),F.R.C.S (Glasgow)",7,sigleclinc@gmail.com,99471 84089,"Opp. Sports club, Kadapakkada, Kollam, Kerala 691008",8.88405° N,76.59751° E
+,DR. ABHILASH H,abhilash,abhi9,M,gastroenterology,"MBBS, MD (Internal Medicine), DM(Gastroenterology), MRCP(UK), ESEGH(UK)",25,gghospitalphkpl@gmail.com,0471 2779100,"GG Hospital, Murinjapalam Pottakuzhi Rd, Pottakkuzhi, Thiruvananthapuram, Kerala 695033",8.50674° N,76.93897° E
+,Dr Charles Panackel,charlesp,charles12,M,gastroenterology,"M.B.B.S,M.Ch (Surgical Gastro),F.R.C.S (Glasgow)",17,kkhospitals@gmail.com,484 66 99 999,"Aster Medcity, Kuttisaheb road, south chittor, cheranallur, Ernakulam, Kerala 682027",8.50675° N,76.27228° E
+Peptic ulcer diseae,Dr. Pramil Kaniyarakkal,pramila,pramila1,F,gastroenterology,"MBBS,MS,DNB(GI/HPB Surgery)MNAMS,FMAS,FIAGES",10,doc.pramilk@gmail.com,094968 03406,"Lisie Hospital, Kaloor, Kochi, Kerala 682017",9.98851° N,76.28906° E
+,Dr Biggs Saravanan R,Biggs,biggs8,M,gastroenterology,"MD. ,DM.(Gastro)",6,info@bharathhospital.co.in, 0481 258 2947,"Azad Ln, Puthenangady, Kottayam, Kerala 686001",9.58796° N,76.51932° E
+,Dr. P.B Prabhakaran,prabhakaran,prabha2,M,gastroenterology,"MD. ,DM.(Gastro)",18,prabhakaran23@gmail.com,98470 73850,"3/805, Pottangadi Ragavan Road,Nadakkave,Kozhikode, Kerala 673011",11.27253° N,75.77679° E
+Gastroenteritis,Dr. C. Gokulan,Gokul,Gokul2,M,gastroenterology,"MBBS, MD, MRCP(I), FRCP(Glasg)",9,info@pvshospital.com ,0495 2707100,"Railway Station Rd, near Railway Station, Palayam, Kozhikode, Kerala 673002",11.24523° N,75.7817° E
+,Dr GN Ramesh,ramesh,ramesh7,M,gastroenterology,"MBBS,MS,DNB(GI/HPB Surgery)MNAMS,FMAS,FIAGES",15,info@rameshhospital.com,098470 34787,"Metro, Shreyas, Near Hotel Abad, Rajaji Rd, Ernakulam, Kerala 682035",9.99756° N,76.3046° E
+,Shenoy Dr K T,Shenoy,shenoy34,M,gastroenterology,"MBBS, MD (Internal Medicine), DM(Gastroenterology), MRCP(UK), ESEGH(UK)",5,shenoyktdr@gmail.com,0471 244 4364,"Meera (H,Chalakuzhy Road,Pottakkuzhi,Thiruvananthapuram, Kerala 695004",8.52319° N,76.93779° E
+Bronchial Asthma,Dr Praveen Valsalan K,praveenvk,praveen12,M,pulmonologist,"MBBS, MD (Respiratory Medicine), FCCP",4,praveenvalasank@gmail.com,8891491504,"11/281-1, Kakkassery house, post, PBK Myna Rd, Thrikkakara, Vazhakkala, Kochi, Kerala 682021",10.352959° N,76.511975° E
+,Dr. Arshad Kalliath,arshad,ashrad2345,M,pulmonologist,"MBBS, DTCD, CERTIFICATE IN DIABETOLOGY, CERTIFICATE IN THORACIC ULTRASOUND",15,Arshad Kalliath@gmail.com,9288809192,"VARA 309, Hill View Lane, Vattiyoorkkav-Arappura Rd, Vattiyoorkavu, Thiruvananthapuram, Kerala 695013",8.505891° N,76.957048° E
+,Dr Paramez AR,paramezar,paramezar@,M,pulmonologist," M.B.B.S, MD Pulmonary Medicine, FCCS,FCCP",14,drparamez@yahoo.co.in,9526195777,"Lisie Hospital Rd, Kathrikadavu, Kaloor,Kochi, Kerala 682017",9.98851° N,76.28906° E
+Alcoholic hepatitis,Dr Tony Joseph,tonyjoseph,tony@123,M,gastroenterology,"MBBS, MD, MRCP(I), FRCP(Glasg)",4,toneyjoseph14@hotmail.com,0484 270 5383,"Consultant Gastroenterologist, P. S. Mission hospital, Maradu P. O, Kochi, Kerala 682304",9.963386° N,76.253661° E
+,Dr. Biju I. K.,bijulk,bijulk@14,M,gastroenterology,"MBBS,MD (General Medicine),DM ( Gastroenterology)",22,info@babymhospital.org,495-2723272,"Indira Gandhi Rd, Arayidathupalam, Kozhikode, Kerala 673004",11.25917° N,75.78883° E
+,Dr. Gopakumar G,gopakumar,gopakumar!@,M,homeopathy,"BHMS, MD - Homeopathy",14,gopakumarrd23@gmail.com,8895114326,"Fane Multispeciality Homoeopathy
+Near NSS College Pandalam,  Pathanamthitta",9.2648° N,76.7870° E
+Common Cold,Dr.Anfas Haris,anfasharris,anfasdr32@,M,Gereral Physician,MBBS,4,anfasharris2333@gmail.com,9877455458,"Iris
+school mukku,  Kozhikode",11.3223° N,75.7630° E
+,Dr. Sanoop K Zachariah,Sanoop1,Sanoop123,M,General Physician,"MS,FRCS,FMAS",20,drsanoop18@gmail.com,9072881666,"KIMSHEALTH TRIVANDRUM
+KIMSHEALTH, P.B.No.1, Anayara P.O, Trivandrum – 695029, Kerala, India",8.5137° N,76.9093° E
+,Dr.Seethamony P V,Seethamonypv,seethamony2345,F,General Physician,"MBBS,MD",32,drseethamonyPV@hotmail.com,9946241578,"GA, Serene Square apt, Devaswom board, KOWDIAR PO,  Trivandrum",8.5241° N,76.9366° E
+,,,,,,,,,,,,
+Dimorphic hemmorhoids(piles),Dr. Rahul J,rahul,rahul@123,M,Gastroenterology,MBBS,22,rahulj@gmail.com,0480 271 0271,"Old Hwy, Chalakudy, Kerala 680307",10.311879° N,76.331978° E
+Dimorphic hemmorhoids(piles),Dr. K. Brahmanand,brahmanand,123brahmanand,M,Gynecologist ,"MBBS, M.S General Surgery, DGO",21,info@thoppilhospital.com,089215 08984,"Chirakkadavam, Kayamkulam, Kerala 690502",9.17524° N,76.5031° E
+Dimorphic hemmorhoids(piles),Dr.Sandeep,sandeep01,Sandeep_101,M,Gastroenterology,MBBS,15,sandeep01@gmail.com,98959 37482,"Coimbatore Rd, near new stadium, opposit to kable point, Kalmandapam, Palakkad, Kerala 678004",10.769199° N,76.651247° E
+Hypothyroidism,Dr. Tom Babu,babu_tom,tom@babu,M,Endocrinologist,DNB,28,babutom65@gmail.com,95391 18118,"2312245, KP Vallon Rd, Giri Nagar, Kadavanthra, Ernakulam, Kerala 682020",9.95986° N,76.30157° E
+Hypothyroidism,Dr. Sunil K Menon,sunilmenon,sunilmenn@k,M,Endocrinologist,MS,8,sunilmennk1999@gmail.com,0487 243 2200,"Jubilee Mission Rd, Fathima Nagar, East Fort, Nellikunnu, Thrissur, Kerala 680005",10.51125° N,76.24667° E
+Hypothyroidism,Dr Vivek Mathew,mvivek,m@vivek,M,Endocrinologist,DNB,11,vivekm@gmail.com,0484 270 3951,"VPS Lakeshore Hospital, Nettoor, Maradu, Kochi, Kerala 682040",9.94088° N,76.31819° E
+(vertigo) Paroymsal Positional Vertigo,Dr. George Varghese,george_8,8@george,M,ENT,"MS, DNB",25,vgeorge01@gmail.com,92498 67966,"Seaport-Airport Road, Chittethukara, Kakkanad, Kochi, Kerala 682037",9.99426° N,76.35248° E
+(vertigo) Paroymsal Positional Vertigo,Dr. Vinod B Nair,vinodnair,vindnair@1990,M,ENT,MS,30,vinodnair123@gmail.com,88939 39388,"Anandavijayam, Vaidyar Ln, Kaloor, Kochi, Kerala 682017",9.99003° N,76.29902° E
+(vertigo) Paroymsal Positional Vertigo,Dr. Sreeram P,sreeramp,psreeram,M,ENT,MS,23,sreeramp@gmail.com,094957 00536,"FLAT NO: 10 D ASSET OCEAN GROVE, South Chittoor, Ernakulam, Kerala 682027",9.988381° N,76.286344° E
+Cervical spondylosisa,Dr. Sudheer Shareef,sshareef,ssharef_999,M,Orthopedic,MBBS,22,sshareef@gmail.com,094471 20334,"house no. 138,kattipparambil house, St Vincent Convent Rd, Palarivattom, Kochi, Kerala 682025",9.99574° N,76.3105° E
+Cervical spondylosisa,Dr Sujit Jos,jsujit,jsujit@1290,M,Orthopedic,MBBS,15,jsujit@gmail.com,0484 288 5910,"MOSC HOSPITAL , HOSPITAL ROAD Kolenchery, Kochi, Kerala 682311",10.04388° N,76.22144° E
+Cervical spondylosisa,Dr. Babu Joseph,babujoseph,jbabu@123,M,Orthopedic,"MS , DNB ",24,babujoseph1999@gmail.com,98471 65295,"9.9688357/1047 Iyyattil lane Chitoor road, Ernakulam, Kerala 682011",9.96883° N,76.28771° E
+Hepatitis A,Dr. Joshy John,joshyjohn,joshyjohn@567,M,Gastroenterologist.,"MBBS, MD, DM in Gastroenterology",17,joshyjohn@gmail.com,099472 84085,"Speciality Clinic for Gastrointestinal & Laparoscopic surgery, A.G.C Complex, Beach Rd, Kollam, 691001",8.87428° N,76.59404° E
+Hepatitis A,Dr GN Ramesh,rameshgn,gnr@143,M,Gastroenterologist,DM in Gastroenterology,25,rameshgn@gmail.com,92077 32524,"Metro, Shreyas, Near Hotel Abad, Rajaji Rd, Ernakulam, Kerala 682035",9.97875° N,76.28573° E
+Hepatitis A,Dr. P.B Prabhakaran,pbprabhakaran,pbprabhakaran@123,M,Gastroenterologist,"MBBS, MD, DM",7,pbprabhakaran@gmail.com,098470 73850,"3/805, Pottangadi Ragavan Road, Nadakkave,Kozhikode, Kerala 673011",11.27253° N,75.77679° E
+Hepatitis B,Dr.Sreeraj.V,sreerajv6,sreerajv66,M,hematologist,MBBS,12,sreeraj06@gmail.com,495 270 1112,"Amala Hospital, Amalanagar, Thrissur, Kerala 680555",10.56174° N,76.17608° E
+Hepatitis B,Dr KA Salim,kasalim,ka@salim,M,hematologist,"MBBS, MD, DM",13,salimka@gmail.com,0495 270 1112,"18/1145D, Jail Rd, Puthiyara, Kozhikode, Kerala 673004",11.25542° N,75.79062° E
+Hepatitis B,Dr. John KC,jhonkc,kc@jhon,M,hematologist,B.H.M.S,24,drjohnkc@gmail.com,9446010234,"2nd Floor, KTM Complex, Behind Old private Bus Stand,Changanacherry – 686101",10.352959° N,76.511975° E
+Hepatitis C,Dr. Harikumar R Nair,hrnair,harikumar@9966,M,Gastroenterologist,MBBS,20,doctor@drharikumar.com,97442 47367,"Changampuzha Nagar, Chitrakoodam, Pathadipalam, Kalamassery, Kochi, Kerala 682033",10.04026° N,76.31923° E
+Hepatitis C,Dr. Maya Peethambaran,mayap,pmaya@1456,F,Gastroenterologist,"MBBS, MD, DNB, DNB (Gastro), MRCPCH, MRCP(Glasg), PGDAP",8,peethambaranm@gmail.com,82817 05533,"VPS Lakeshore Hospital, NH-66 Bypass Maradu, Nettoor, P.O, Kochi, Kerala 682040",9.94088° N,76.31819° E
+Hepatitis C,Shenoy Dr K T,shenoykt,shenoy@kt,M,Gastroenterologist,"MBBS, MD, DM",41,stshenoy1998@gmail.com,0471 244 4364,"Meera (H, Chalakuzhy Rd, Pottakkuzhi, Thiruvananthapuram, Kerala 695004",8.52319° N,76.93779° E
+hepatitis D,Dr. S Sudhindran,sudhindrans7,sudhindrans@7,M,Gastroenterologist,MBBS,11,@gmail.com,0484 285 1234,"No.8, Ten hunts Villa Divine Park Kakkanad, Kakkanadu, Kerala 682037",10.352959° N,76.511975° E
+hepatitis D,Dr Charles Panackel,pcharless,pancharles,M,Gastroenterology,"MBBS, MD Internal Medicine, DM Gastroenterology, Fellow in Hepatology",8,pancharless@gmail.com,9181119981,"Aster Medcity, Kuttisaheb road, south chittor, cheranallur, Ernakulam, Kerala 682027",10.03774° N,76.27228° E
+hepatitis D,Dr.Deepak K Johnson,deepakkj,johnsonkd@55,M,Gastroenterology,"MBBS, MD, DM",11,johnsondeepakk@gmail.com,080789 19100,"Kattookkara, Thiruvalla, Kerala 689101",9.37811° N,76.56574° E
+General doctor,Bharathan Dr K,bharathank,bharathank@67,M,General ,"MS, DNB",29,bharathank@gmail.com,0484 277 7619,"24, North Fort Gate, Thamarakulangara Road, Tripunithura, Tripunithura, Ernakulam, Kerala 680301",9.95221° N,76.34115° E
+General doctor,Dr.Liza Ann Paul,lpann,annpl@dr,F,General ,"MS, DNB",17,jacobshospital.com,98951 88222,"op room no: 3, ground floor, jacobs hospital, Father Mathew Kotheakathu Road, Kazhuthumuttu, Thoppumpady, Kochi, Kerala 682005",9.963386° N,76.253661° E
+General doctor,Dr John Amose K,amosejk,amosejk@89,M,General ,"MS, DNB",15,amosejk@gmail.com,96450 87207,"Thankalam, Kothamangalam, Kerala 686666",10.07055° N,76.62869° E
+General doctor,Dr Asha Joshi,ashajoshi,joshiasha@49,F,General ,"MS, DNB",18,jasha@798@gmail.com,94006 30236,"Vellanikkara, Thrissur, Kerala 680654",10.54273° N,76.29039° E

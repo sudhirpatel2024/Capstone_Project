@@ -1,0 +1,52 @@
+{% load static %}
+<html>
+<head>
+<title>Smart Health Prediction System with Data Mining</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}"/>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<center><font size="4" color="yellow">Smart Health Prediction System with Data Mining</font></center>
+		</div>
+		<div id="slogan">
+			
+		</div>
+	</div>
+	<div id="menu">
+		<ul><center>
+	  <li><a href="{% url 'AddDoctors' %}">Add Doctors & Hospital Details</a></li>
+	  <li><a href="{% url 'ViewDoctors' %}">View Details</a></li>
+	   <li><a href="{% url 'TrainML' %}">Train Machine Learning on Disease Dataset</a></li>
+	   <li><a href="{% url 'index' %}">Logout</a></li>
+			
+		</center></ul>
+<br class="clearfix" />
+				</div>
+			
+	<div id="splash">
+		<img class="pic" src="{% static 'images/investor.jpg' %}" width="870" height="230" alt="" />
+	</div>	
+			<center>
+
+   <h3><b>View Doctors Screen</b></h3>
+   
+						
+						<table align="center" border="1">
+						<tr><th><font size="" color="black">Username</th><th><font size="" color="black">Password</th><th><font size="" color="black">Gender</th>
+						<th><font size="" color="black">Speciality</th><th><font size="" color="black">Qualification</th><th><font size="" color="black">Experience</th>
+						<th><font size="" color="black">Email ID</th><th><font size="" color="black">Contact No</th><th><font size="" color="black">Hospital Address</th>
+						<th><font size="" color="black">Latitude</th><th><font size="" color="black">Longitude</th></tr>
+			 
+		 {{ data|safe }}
+		
+			</table>
+				</div>	
+					
+				</div>
+				<br/><br/><br/><br/><br/><br/>
+				
+	</body>
+</html>

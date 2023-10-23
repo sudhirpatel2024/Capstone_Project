@@ -1,0 +1,50 @@
+{% load static %}
+<html>
+<head>
+<title>Smart Health Prediction System with Data Mining</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}"/>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<center><font size="4" color="yellow">Smart Health Prediction System with Data Mining</font></center>
+		</div>
+		<div id="slogan">
+			
+		</div>
+	</div>
+	<div id="menu">
+		<ul><center>
+	  <li><a href="{% url 'ViewAppointments' %}">View Todays Appointment</a></li>
+	  <li><a href="{% url 'index' %}">Logout</a></li>
+			
+		</center></ul>
+<br class="clearfix" />
+				</div>
+			
+	<div id="splash">
+		<img class="pic" src="{% static 'images/investor.jpg' %}" width="870" height="230" alt="" />
+	</div>	
+			<center>
+
+   <h3><b>View Appointment Screen</b></h3>
+   
+						
+						<table align="left" border="1" size="100">
+						<tr><th><font size="" color="black">Appointment ID</th>
+						<th><font size="" color="black">Patient Name</th><th><font size="" color="black">Doctor Name</th><th><font size="" color="black">Disease Description</th>
+						<th><font size="" color="black">Booking Date</th><th><font size="" color="black">Appointment Date Time</th>
+						</tr>
+			 
+		 {{ data|safe }}
+		
+			</table>
+				</div>	
+					
+				</div>
+				<br/><br/><br/><br/><br/><br/>
+				
+	</body>
+</html>

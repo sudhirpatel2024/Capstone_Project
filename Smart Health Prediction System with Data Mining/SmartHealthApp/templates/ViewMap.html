@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+  <title>Smart Health Prediction System with Data Mining</title> 
+  <script src="http://maps.google.com/maps/api/js?sensor=false" 
+          type="text/javascript"></script>
+</head> 
+<body>
+  <div id="map" style="width: 1000px; height: 600px;"></div>
+  <center><br/>
+{{ data|safe }}
+  <script type="text/javascript">
+    /**
+	var locations = [
+      ['location1', 17.3846, 78.4574, 4],
+      ['location2', 17.3847, 78.4574, 5],
+      ['location3', 17.3848, 78.4574, 3],
+      ['location4', 17.3849, 78.4574, 2],
+      ['location5', 17.3845, 78.4574, 1]
+    ];
+**/
+    var lats = document.getElementById('t1').value;
+	var lons = document.getElementById('t2').value;
+	var arr1 = lats.split(" ")
+	var arr2 = lons.split(" ")
+	var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 10,
+      center: new google.maps.LatLng(parseFloat(arr1[0]), parseFloat(arr2[0])),
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+
+    var infowindow = new google.maps.InfoWindow();
+
+    var marker, i;
+
+    for (i = 0; i < arr1.length; i++) {  
+      marker = new google.maps.Marker({
+        position: new google.maps.LatLng(parseFloat(arr1[i]),parseFloat(arr2[i])),
+        map: map
+      });
+
+      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+          infowindow.setContent('Location');
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+    }
+  </script>
+
+  
+</body>
+</html>

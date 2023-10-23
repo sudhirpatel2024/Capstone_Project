@@ -1,0 +1,28 @@
+create database SmartHealthApp;
+use SmartHealthApp;
+
+create table adddoctor(username varchar(50) primary key,
+password varchar(50),
+gender varchar(20),
+speciality varchar(150),
+qualification varchar(50),
+experience varchar(50),
+emailid varchar(50),
+contact_no varchar(15),
+hospital_address varchar(500),
+latitude double,
+longitude double);
+
+create table register(username varchar(30) primary key,
+password varchar(30),
+contact varchar(12),
+email varchar(30),
+address varchar(40),
+usertype varchar(40));
+
+create table Appointment(appointment_id int,
+patient_name varchar(50),
+doctor_name varchar(50),
+disease_desc varchar(200),
+booking_date date,
+appointment_date timestamp);

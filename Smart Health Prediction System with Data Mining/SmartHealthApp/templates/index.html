@@ -1,0 +1,38 @@
+{% load static %}
+<html>
+<head>
+<title>Smart Health Prediction System with Data Mining</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}"/>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<center><font size="4" color="yellow">Smart Health Prediction System with Data Mining</font></center>
+		</div>
+		<div id="slogan">
+			
+		</div>
+	</div>
+	<div id="menu">
+		<ul><center>
+	  <li><a href="{% url 'index' %}">Home</a></li>
+	   <li><a href="{% url 'Admin' %}">Admin</a></li>
+		 <li><a href="{% url 'Doctor' %}">Doctor</a></li>
+      <li><a href="{% url 'Patients' %}">Patients</a></li>
+      <li><a href="{% url 'Register' %}">New Patients Signup Here</a></li>
+			
+		</center></ul>
+		<br class="clearfix" />
+	</div>
+	<div id="splash">
+		<img class="pic" src="{% static 'images/investor.jpg' %}" width="870" height="230" alt="" />
+	</div>
+	<br/>
+	<p align="justify"><font size="3" style="font-family: Comic Sans MS" color='black'>
+		Abstract-The digital technology era demands the world to provide an excellent health system, in order to ensure the citizen and community to be alive and healthy. This study proposes the application of data mining algorithm for health prediction that can eventually shape a suitable health prediction system for patients. Although, health care is available to everyone in the world, there are still no healthcare system that is completely reliable and accurate to carefully diagnose patient on their current health issues.</p><p align="justify"><font size="3" style="font-family: Comic Sans MS" color='black'>Even though, some hospitals are well equipped to provide the best healthcare services to its citizens, some of the hospitals are still lack in certain qualities. Consequently, patients are doubtful and uncertain when it comes to picking which hospital suits them. Numerous issues are faced by patients pertinent to hospitals such as, being unable to provide medical services, insufficient number of qualified medical staffs, poor communication between doctors and patients, and unorganized health records and data. Eventually, these issues impede the opportunity for hospitals to handle both their management and their duties steadily in order to maintain the health of every citizen and community. 
+
+</p>
+</body>
+</html>
